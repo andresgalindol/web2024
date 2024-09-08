@@ -1,0 +1,192 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.azul {
+	background-color: #006e82;
+	color: #FFFFFF;
+}
+
+.navbar{
+	font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Ajusta el peso según lo que desees */
+}
+
+.mr-3 {
+	height: 64px;
+	width: 64px;
+}
+
+.ml-3{
+	height: 75px;
+	width: 75px;
+}
+.mb-0{
+	font-family: "Lexend", sans-serif;
+}
+.mt-0{
+	font-family: "Lexend", sans-serif;
+}
+
+.pedo{
+	font-family: "Lexend", sans-serif;
+}
+.colorlt{ 
+    color: #ffffff;
+}
+.white{
+	background-color: #FFFFFF;
+}
+.ltcolor{
+	color: #006e82;
+}
+
+.bienvenido{
+	font-size: 35px;
+}
+
+.txt-1{
+	font-size: 15px;
+}
+
+.cube-1{
+	height: 902px;
+	background-color: #006e82;
+	color: #FFFFFF;
+}
+
+.btn-ts{
+	background-color: #007CFF;
+}
+
+.img-plant{
+	border-radius: 7px;
+}
+
+
+.testimonial-card {
+    background-color: #333; /* Color de fondo oscuro */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    margin: 20px 0; /* Margen superior e inferior */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera para dar efecto elevado */
+}
+
+.testimonial-card p {
+    font-style: italic; /* Texto en cursiva para los testimonios */
+}
+
+.testimonial-card h5 {
+    margin-top: 20px; /* Margen superior para separar el nombre del texto */
+    font-weight: bold; /* Negrita para el nombre */
+    text-align: center; /* Centrar el nombre */
+}
+
+.why-choose-us {
+    padding: 50px 0;
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+    border-radius: 8px;
+}
+
+.image-text {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.6); /* Fondo semitransparente */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+
+.text-container {
+    padding-left: 20px;
+}
+
+.text-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.text-container p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+    color: #555; /* Color de texto */
+}
+
+.text-container .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+footer {
+  padding: 20px 0;
+  background-color: #003366; /* o el color que estés utilizando */
+}
+
+footer .text-white {
+  color: #fff !important;
+}
+
+footer ul {
+  padding: 0;
+}
+
+footer ul li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+footer small {
+  font-size: 12px;
+}
+
+.img-1{
+	
+	background-image:url( "../img/conocenos.png");
+    height: 100%;
+	width: 100%;
+}
+
+.cube-2{
+	background-color: #006e82;
+	color: #FFFFFF;
+}
+
+.img-2{
+		background-image:url( "../img_cards/tour.png");
+    height: 100%;
+	width: 100%;
+}
+
+.text-big{
+    font-size: 70px;	
+}
+
+.text-azul{
+	color:#006e82; 
+}
+
+.white{
+	background: #FFFFFF;
+}
+
+.text-medium{
+    font-size: 45px;	
+}
